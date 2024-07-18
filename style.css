@@ -22,15 +22,15 @@ ol li {
   color: crimson;
 }
 
-ul li .like {
+.like {
   color: green;
 }
 
-ol li .thunder {
+.thunder {
   color: purple;
 }
 
-anchor {
+a {
   color: plum;
   font-style: italic;
 }
